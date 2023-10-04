@@ -1,0 +1,50 @@
+[33mcommit d1cda4872353aaf5b8261bfc6e3bd2dc8dd2c9cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 28cb050 65d60d6
+Author: ertu-aktas <akta0002@hz.nl>
+Date:   Wed Oct 4 16:26:52 2023 +0200
+
+    Merge branch 'main' of https://github.com/ertu-aktas/CINportfolio
+
+[33mcommit 28cb050a5735479d1210160c036fda61e0901fcd[m[33m ([m[1;32mtestBranch[m[33m)[m
+Author: ertu-aktas <akta0002@hz.nl>
+Date:   Wed Oct 4 16:23:59 2023 +0200
+
+    file for merging
+
+[33mcommit 65d60d6e99af5d05f3e5b03b0a3e42c7d3c1105e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: aktas <112567004+ertu-aktas@users.noreply.github.com>
+Date:   Wed Oct 4 14:34:52 2023 +0200
+
+    Create fetchDelete.txt
+
+[33mcommit bf676dd48b5e58c4b9f2a8bfb2f11cf4293c8848[m
+Author: aktas <112567004+ertu-aktas@users.noreply.github.com>
+Date:   Tue Oct 3 21:59:28 2023 +0200
+
+    Create fetchTest.txt
+
+[33mcommit 0447791663008ef75f3feebf6c054a459e793d0e[m
+Author: ertu-aktas <akta0002@hz.nl>
+Date:   Tue Oct 3 21:57:05 2023 +0200
+
+    commiting everything
+
+[33mcommit 463f9c47e2f10c8c5767a049c4ab7a0f4ce803ec[m
+Author: ertu-aktas <akta0002@hz.nl>
+Date:   Fri Sep 29 13:34:30 2023 +0200
+
+    Revert "update previous commit"
+    
+    This reverts commit 058c09b279faed0c8722d16e20440839e2a6f8fb.
+
+[33mcommit 3a94c44e7706f094b49926a4e99168ea1d7f08e6[m
+Author: ertu-aktas <akta0002@hz.nl>
+Date:   Fri Sep 29 13:13:26 2023 +0200
+
+    another test commit
+
+[33mcommit 058c09b279faed0c8722d16e20440839e2a6f8fb[m
+Author: ertu-aktas <akta0002@hz.nl>
+Date:   Fri Sep 29 12:36:36 2023 +0200
+
+    update previous commit
